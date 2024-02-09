@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NeoMutant": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Muril\\Desktop\\Projeto NeoMutants\\NeoMutant",
+      "jsWebView2Debugging": false
+    }
+  }
+}
