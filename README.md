@@ -1,4 +1,4 @@
-# <> Projeto NeoMutantAutomation <>
+# Projeto NeoMutantAutomation
 
 	> Projeto de automação de testes de API com Webhooks.
 
