@@ -35,10 +35,8 @@
 4. Variáveis de configuração:
 
 	> notion_token: Token de acesso do Notion.
-	> discord_token: Token de acesso do Discord.
 	> notion_database_id: ID do banco de dados do Notion.
 	> notion_api_url: URL da API do Notion.
-	> discord_api_url: URL da API do Discord.
 
 5. Fluxo de execução da automação TestMethod1:
 
@@ -55,8 +53,8 @@
 
 6. Observações:
 
-	> É necessário substituir os valores das variáveis notion_token, discord_token, 
-	  notion_database_id, notion_api_url e discord_api_url pelos valores corretos antes de executar o teste.
+	> É necessário substituir os valores das variáveis notion_token, 
+	  notion_database_id, notion_api_url pelos valores corretos antes de executar o teste.
 
 	> Estima-se que melhorias podem ser feitas no código para que a substituição dos valores das 
 	  variáveis, seja feita por meio de uma página no Notion ou por meio de um arquivo de configuração.
